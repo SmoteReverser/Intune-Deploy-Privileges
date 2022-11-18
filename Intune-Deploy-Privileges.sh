@@ -4,7 +4,7 @@
 #
 # Deploy Privileges
 #
-# Author: Alex Fajerman (alex.fajerman@deloitte.com)
+# Author: Alex Fajerman (alex@eighty1.net)
 # Creation date: 2022-10-18
 # Last modified date: 2022-11-01
 #
