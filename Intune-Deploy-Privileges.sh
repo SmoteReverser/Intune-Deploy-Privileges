@@ -4,7 +4,7 @@
 #
 # Deploy Privileges
 #
-# Author: Alex Fajerman (alex@eighty1.net)
+# Author: Alex F. (https://github.com/SmoteReverser)
 # Creation date: 2022-10-18
 # Last modified date: 2022-11-01
 #
